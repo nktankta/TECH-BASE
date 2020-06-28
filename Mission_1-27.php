@@ -1,5 +1,5 @@
 <body>
-<form action="https://portal.tech-base.net/storage/userfile/u43767/Mission_1-27.php" method="POST">
+<form action="https://***/Mission_1-27.php" method="POST">
         <input type="text" name="num">
         <input type="submit">
 </form>
