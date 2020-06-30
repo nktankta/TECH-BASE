@@ -16,7 +16,7 @@ if(!$num==""){
     }else{
         $s = $num;
     }
-    $s = $s."<br>";
+    $s = $s."¥n";
     $f = fopen($file_name,"a");
     fwrite($f,$s);
     fclose($f);
