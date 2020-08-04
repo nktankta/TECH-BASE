@@ -1,0 +1,36 @@
+#header_img{
+    text-align: center;
+    display: block;
+    background-color:  honeydew;
+}
+header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding:0px;
+    margin:0px;
+    list-style: none;
+    background-color: lavender;
+}
+header ul{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding:0;
+    list-style: none;
+}
+header li{
+    padding: 2px;
+    margin: 0;
+}
+header li a{
+    display: block;
+    border: 1px solid #f1f7ff;
+    background-color: #edffff;
+    padding: 3px;
+    color: #333;
+    width: 100px;
+    margin: 1px;
+    text-align: center;
+    font-size: 14px;
+}
